@@ -1,0 +1,4 @@
+This repository consists of the two kind of popular methodology followed in the movie recommender system i.e. Content-Based Filtering and Collaberative Filtering.
+The output and the algorithm details can be found in the ppt and document present in the folder.
+The data is taken from the MovieLens dataset.
+The files will be updated with the new efficient modifications further.
